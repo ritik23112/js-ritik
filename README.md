@@ -1,1 +1,1 @@
-# js-ritik
+ritik
